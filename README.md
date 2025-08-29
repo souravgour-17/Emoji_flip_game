@@ -1,4 +1,4 @@
-Emoji Flip Game 🎮
+##Emoji Flip Game 🎮
 
 A fun and interactive browser-based game inspired by Minesweeper!
 
