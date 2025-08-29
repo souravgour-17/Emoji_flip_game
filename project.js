@@ -1,4 +1,3 @@
-
 const board = document.getElementById("game-board");
 const overMessage = document.getElementById("overmessage");
 const winMessage = document.getElementById("win-Message");
@@ -52,7 +51,7 @@ function createBoard() {
   timerEl.textContent = seconds;
 
   overMessage.classList.remove("show");
-  winMessage.classList.remove("show"); // reset win message
+  winMessage.classList.remove("show");
 
   const cardCount = 12;
   let selectedEmojis = emojis.slice(0, cardCount - 2);
@@ -122,14 +121,10 @@ if (openModal && closeModal && modal) {
   });
 
   window.addEventListener("click", (e) => {
-    if (e.target === modal) {
+    if (e.target === modal) { 
       modal.style.display = "none";
     }
   });
 }
 
 createBoard();
-
-
-
-
