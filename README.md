@@ -1,81 +1,110 @@
-# Emoji Flip Game 🎮
+# 🎉 Emoji Flip Game 🎮  
 
-A fun and interactive browser-based game inspired by Minesweeper!
+![GitHub repo size](https://img.shields.io/github/repo-size/souravgour-17/Emoji_flip_game?color=blue&style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/souravgour-17/Emoji_flip_game?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/souravgour-17/Emoji_flip_game?style=social)  
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)  
 
-## Table of Contents
-- 📝 [About](#about)  
-- 🎬 [Demo](#demo)  
-- ✨ [Features](#features)  
-- 🎮 [Gameplay](#gameplay)  
-- 🛠️ [Technologies Used](#technologies-used)  
-- 💻 [Installation](#installation)  
-- 🤝 [Contributing](#contributing)  
-- 📄 [License](#license)
+> A fun, interactive **memory and logic game** built with pure **HTML, CSS, and JavaScript**.  
+> Flip cards, reveal emojis, and avoid the bombs 💣 to win!  
 
 ---
 
-## About
-Emoji Flip Game is a lightweight, browser-based game where players flip cards to reveal emojis. Avoid bombs 💣 and uncover all safe emojis to win!  
-
-It is built with **HTML, CSS, and JavaScript**, focusing on **DOM manipulation**, **event handling**, and **interactive UI design**.  
-
-This project is perfect for **learning JavaScript**, **CSS styling**, and **game logic implementation** while having fun.  
-
----
-
-## Demo
-Try the live game here: [Live Demo](https://yourusername.github.io/emoji-flip-game)  
-
-### Screenshots
-![Screenshot 1](https://i.imgur.com/your-screenshot1.png)  
-![Screenshot 2](https://i.imgur.com/your-screenshot2.png)  
-
-### Gameplay GIF
-![Gameplay GIF](https://i.imgur.com/your-gif.gif)  
-
-> *Replace the placeholder links with your actual screenshots or GIFs once you upload them.*
+## 📑 Table of Contents
+- [✨ About](#-about)
+- [🎬 Demo](#-demo)
+- [🌟 Features](#-features)
+- [🎮 Gameplay](#-gameplay)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [💻 Installation](#-installation)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ---
 
-## Features
-- Flip cards to reveal emojis.  
-- Bombs 💣 end the game instantly.  
-- Timer tracks how long it takes to complete the game.  
-- Score counter tracks moves.  
-- Play Again and Restart buttons for replayability.  
-- Instructions modal for easy onboarding.  
-- Fully responsive and visually appealing design.
+## ✨ About
+The **Emoji Flip Game** is a lightweight browser game that challenges players to flip cards and uncover hidden emojis.  
+But beware – if you uncover a **bomb 💣**, the game ends instantly!  
+
+This project demonstrates:  
+- **DOM manipulation**  
+- **Event handling**  
+- **Game logic design**  
+- **Responsive UI styling**  
+
+Perfect for beginners exploring **JavaScript projects** and for anyone who loves simple yet addictive games.  
 
 ---
 
-## Gameplay
-1. Click the **New Game** button to start.  
+## 🎬 Demo  
+
+🔗 **[Play Live Demo](https://souravgour-17.github.io/Emoji_flip_game/)**  
+
+### 🖼️ Screenshots  
+| Gameplay | Game Over |  
+|----------|-----------|  
+| ![Screenshot 1](https://raw.githubusercontent.com/souravgour-17/Emoji_flip_game/main/Screenshot%202025-08-29%20202755.png) | ![Screenshot 2](https://raw.githubusercontent.com/souravgour-17/Emoji_flip_game/main/Screenshot%202025-08-29%20202821.png) |  
+
+---
+
+## 🌟 Features  
+✅ Flip cards to reveal emojis  
+✅ Avoid bombs 💣 or the game ends  
+✅ Timer ⏱️ to track performance  
+✅ Score counter for moves made  
+✅ Play Again / Restart buttons for instant replay  
+✅ Instructions modal for beginners  
+✅ Fully responsive & mobile-friendly  
+
+---
+
+## 🎮 Gameplay  
+1. Click **New Game** to begin.  
 2. Flip cards by clicking on them.  
-3. Avoid bombs 💣 – flipping one ends the game.  
-4. Flip all safe cards to see the **Congratulations message**.  
-5. Use **Restart** or **Play Again** buttons to replay.  
+3. Avoid bombs 💣 – they end the game instantly.  
+4. Reveal all safe emojis to win 🎉.  
+5. Use **Restart** or **Play Again** to try again.  
 
 ---
 
-## Technologies Used
-- **HTML** – Game structure and layout.  
-- **CSS** – Styling, animations, and responsive design.  
-- **JavaScript (ES6)** – Game logic, DOM manipulation, timer, and event handling.  
+## 🛠️ Technologies Used  
+- **HTML5** – Game structure  
+- **CSS3** – Styling, animations, responsiveness  
+- **JavaScript (ES6)** – Game logic & interactivity  
 
 ---
 
-## Installation
-1. Clone the repository:  
+## 💻 Installation  
+
+1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/emoji-flip-game.git
-Navigate into the project directory:
+git clone https://github.com/souravgour-17/Emoji_flip_game.git
+Navigate to the project folder
 
 bash
 Copy code
-cd emoji-flip-game
-Open index.html in your browser:
+cd Emoji_flip_game
+Open in Browser
+Simply open project.html in your browser, or use VS Code’s Live Server extension.
 
-bash
-Copy code
-open index.html
-Or use a live server extension in VS Code
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+
+To contribute:
+
+Fork the repo
+
+Create your branch (git checkout -b feature-name)
+
+Commit changes (git commit -m "Added new feature")
+
+Push branch (git push origin feature-name)
+
+Open a Pull Request 🎉
+
+📜 License
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute it. See the LICENSE file for more details.
+
+⭐ If you like this project, consider starring the repo to support me!
