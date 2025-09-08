@@ -4,7 +4,7 @@ A fun and interactive memory card game built with **HTML, CSS, and JavaScript** 
 
 ---
 
-## 🚀 Demo  
+## 🚀 Live Demo  
 👉 **[Play the Live Game Here](https://souravgour-17.github.io/Emoji_flip_game/)**  
 
 ---
@@ -14,7 +14,7 @@ A fun and interactive memory card game built with **HTML, CSS, and JavaScript** 
 - [Features](#-features)  
 - [Screenshots](#-screenshots)  
 - [How to Play](#-how-to-play)  
-- [Demo](#-demo)  
+- [Live Demo](#-live-demo)  
 - [Tech Stack](#-tech-stack)  
 - [Installation](#-installation)  
 - [Contributing](#-contributing)  
@@ -38,9 +38,23 @@ The **Emoji Flip Game** is a classic memory-matching card game where the goal is
 
 ## 📸 Screenshots  
 
-| Game Start | Matching Cards | Game Over |
-|------------|----------------|-----------|
-| ![Start](screenshots/start.png) | ![Match](screenshots/match.png) | ![End](screenshots/end.png) |
+👉 Place your screenshots inside a folder named **`screenshots/`** in your repo.  
+Example structure:  
+Emoji_flip_game/
+│── index.html
+│── style.css
+│── script.js
+│── screenshots/
+│── start.png
+│── match.png
+│── end.png
+
+yaml
+Copy code
+
+| Game Start | Game Over |
+|------------|-----------|
+| ![Start](screenshots/start.png) | ![End](screenshots/end.png) |
 
 ---
 
@@ -64,7 +78,7 @@ The **Emoji Flip Game** is a classic memory-matching card game where the goal is
 1. Clone the repository  
    ```bash
    git clone https://github.com/souravgour-17/Emoji_flip_game.git
-Open project.html in any browser.
+Open index.html in any browser.
 
 🤝 Contributing
 Contributions are welcome! Follow these steps:
